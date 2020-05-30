@@ -1,2 +1,2 @@
 # Projeto_02
- Desenvolvimento de site com HTML E CSS
+ Desenvolvimento de um site responsivo com HTML E CSS: [Projeto_02](https://gabrielhenrip.github.io/Projeto_02/)
